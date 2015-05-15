@@ -1,5 +1,6 @@
 ---
-title: TOTO Post
+layout: post
+title: Toto
 date: 2015-05-14T16:01:35+02:00
 ---
 Il était une fois l'histoire de toto
